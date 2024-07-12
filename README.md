@@ -13,8 +13,8 @@ stb_image_resize2.h [(link)](https://github.com/nothings/stb/blob/master/stb_ima
 `gcc main.c -lm`
 
 # Usage
-`a.exe <path/to/image> <width to render> <flag: optional>`
+`a.exe <path/to/image> <width> <flags>`
 
-Width parameter will represent how ascii pixels the printed image will be (1 ascii pixel is 2 characters wide)
+width: width of ascii art (1 ascii pixel is 2 characters wide)
 
-The only flag currently available is -nc which will print to terminal without color
+flags: -nc (print to terminal without color)
