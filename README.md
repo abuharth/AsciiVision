@@ -1,5 +1,5 @@
 # ASCII Vision
-A simple program that converts images to ASCII art
+A simple program that transforms images to ASCII art
 
 # Example
 ![image2ascii](https://github.com/user-attachments/assets/c0acfeae-5ac1-4427-8215-3f640756c98c)
