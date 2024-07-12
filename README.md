@@ -2,7 +2,7 @@
 A simple program that transforms images to ASCII art
 
 # Example
-![image2ascii](https://github.com/user-attachments/assets/c0acfeae-5ac1-4427-8215-3f640756c98c)
+![image2ascii](https://github.com/user-attachments/assets/caf5f121-3ee0-45f4-9f0a-73eb2e283939)
 
 # Dependencies
 stb_image.h [(link)](https://github.com/nothings/stb/blob/master/stb_image.h)
