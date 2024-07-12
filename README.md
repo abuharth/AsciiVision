@@ -18,3 +18,5 @@ stb_image_resize2.h [(link)](https://github.com/nothings/stb/blob/master/stb_ima
 width: width of ascii art (1 ascii pixel is 2 characters wide)
 
 flags: -nc (print to terminal without color)
+
+#### ::NOTE:: Terminal must support ANSI for colors to work
